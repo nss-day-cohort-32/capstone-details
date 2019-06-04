@@ -26,7 +26,7 @@
 
 ### Cool and Helpful Stuff
 
-* Need some JSON data to get started? Try: https://www.mockaroo.com/
+* Need some JSON data to get started? Try: https://www.mockaroo.com/ or faker.
     * Make a fetch call, loop through and add to database to get a unique id.
 * Looking for inspirational API's: https://github.com/toddmotto/public-apis
 * Got some cross origin relationship problems? Review this repo: https://github.com/BlaiseRoberts/proxy-server
